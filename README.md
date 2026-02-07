@@ -1,8 +1,6 @@
 # QR Code Creator
 
-```markdown
 This repository contains a [Jupyter Notebook](https://drive.google.com/file/d/1rqwtOXbBN4vXeQlj3ftGAuOjbnQWXPVU/view?usp=sharing) designed to run on Google Colab for generating QR codes.
-```
 
 ## Run on Colab
 
